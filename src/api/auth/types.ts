@@ -57,4 +57,3 @@ export interface CaptchaResult {
    */
   verifyCodeBase64: string;
 }
-
